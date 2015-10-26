@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>application-exit-3.png</file>
+        <file>document-new-6.png</file>
+        <file>edit-delete-3.png</file>
+        <file>document-save-as-6.png</file>
+        <file>system-search-4.png</file>
+        <file>view-calendar-tasks.png</file>
+        <file>dialog-ok-5.png</file>
+        <file>document-close-2.png</file>
+        <file>system-switch-user.png</file>
+        <file>edit-find-user.png</file>
+        <file>document-print-3.png</file>
+        <file>view-calendar-list.png</file>
+        <file>document-open-remote.png</file>
+        <file>document-save-as-5.png</file>
+        <file>edit-add.png</file>
+        <file>edit-remove-3.png</file>
+        <file>view-refresh.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,50 @@
+.capanegra {
+	display: none;
+	position: absolute;
+	text-align: center;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	z-index: 1001;
+	opacity: .80;
+	}
+.capablanca {
+	display: none;
+	position: absolute;
+	top: 10%;
+	left: 5%;
+	width: 90%;
+	height: 80%;
+	border: 	12px solid cadetblue;
+	background-color: white;
+	z-index: 1002;
+	overflow: auto;		
+}
+.lopd {
+	overflow: auto;
+	border: 2px solid red;
+	top: 2%;
+	left: 2%;
+	width: 80%;
+	height: 20%;
+	margin: 10px auto 15px auto;
+	background-color: grey;
+}
+
+.icono {
+	border-style: none;
+	border: 0;
+	width: 16px;
+	height: 16px;
+}	
+
+body {
+	background-color: beige;	
+	color: wheat;
+}
+
+TD {
+	text-align: left;
+}
